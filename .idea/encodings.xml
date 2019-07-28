@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-basic-parent/taobao-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-plat-parent/taobao-plat-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-plat-parent/taobao-plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taobao-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

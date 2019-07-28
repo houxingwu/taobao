@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taobao-basic-util" />
+        <module name="taobao-config-server" />
+        <module name="taobao-eureka" />
+        <module name="taobao-plat-interface" />
+        <module name="taobao-plat-service" />
+        <module name="taobao-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taobao-basic-parent" target="8" />
+      <module name="taobao-basic-util" target="8" />
+      <module name="taobao-config-server" target="8" />
+      <module name="taobao-eureka" target="8" />
+      <module name="taobao-plat-interface" target="8" />
+      <module name="taobao-plat-parent" target="8" />
+      <module name="taobao-plat-service" target="8" />
+      <module name="taobao-zuul" target="8" />
+      <module name="taobaoparent" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
