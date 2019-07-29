@@ -40,7 +40,7 @@ public class AjaxResult {
         return restObj;
     }
 
-    public Object setRestObj(Object restObj) {
+    public AjaxResult setRestObj(Object restObj) {
         this.restObj = restObj;
         return this;
     }
