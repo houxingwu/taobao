@@ -16,6 +16,8 @@ spring:
           uri: https://github.com/houxingwu/-.git
           username: houxingwu
           password: houxingwu951021
+
+
 #4)入口
 #    @SpringBootApplication
 #@EnableEurekaClient //加入注册中心

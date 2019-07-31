@@ -1,15 +1,15 @@
 eureka:
   client:
-    service-url:
-      defaultZone: http://localhost:1000/eureka
+    serviceUrl:
+      defaultZone: http://localhost:1000/eureka/
   instance:
-    prefer-ip-address: true
+    prefer-ip-address: true #使用ip注册到eureka服务列表
 spring:
   profiles:
       active: dev
   cloud:
     config:
-      name: application-zuul #github上面名称
+      name: application-product #github上面名称
       profile: ${spring.profiles.active} #环境 java -jar -D xxx jar
       label: master #分支
       discovery:

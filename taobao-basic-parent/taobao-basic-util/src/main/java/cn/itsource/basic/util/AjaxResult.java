@@ -3,9 +3,9 @@ package cn.itsource.basic.util;
  * Ajax请求结果的封装
  */
 public class AjaxResult {
-    private boolean success;
+    private boolean success = true;
 
-    private String message;
+    private String message = "操作成功";
 
     private Object restObj;
 

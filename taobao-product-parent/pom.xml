@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>taobao-basic-parent</artifactId>
+    <artifactId>taobao-product-parent</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>taobao-basic-util</module>
-        <module>taobao-basic-generator</module>
+        <module>taobao-product-interface</module>
+        <module>taobao-product-service</module>
     </modules>
 
 

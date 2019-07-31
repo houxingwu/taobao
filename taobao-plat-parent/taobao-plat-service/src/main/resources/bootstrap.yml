@@ -4,8 +4,6 @@ eureka:
       defaultZone: http://localhost:1000/eureka/
   instance:
     prefer-ip-address: true #使用ip注册到eureka服务列表
-
-
 spring:
   profiles:
       active: dev
