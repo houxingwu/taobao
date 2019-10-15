@@ -6,6 +6,8 @@ public class User {
     private String password;
     private String aa;
 
+    private String bb = "在主分支上面修改";
+
     public Long getId() {
         return id;
     }
